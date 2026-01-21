@@ -1,4 +1,5 @@
 // src/App.tsx
+import { Button } from "@mui/material";
 import "./App.css";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
 		<>
 			<div>
 				<h1>HELLO</h1>
+				<Button variant="contained">This is a button</Button>
 				
 			</div>
 		</>
