@@ -1,6 +1,6 @@
 {
 	"name": "webform-vite",
-	"description": "A template for building a React application with Vite, Hono, and Cloudflare Workers",
+	"description": "bla",
 	"cloudflare": {
 		"label": "Vite React Template",
 		"products": [
