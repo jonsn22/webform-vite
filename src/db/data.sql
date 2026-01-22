@@ -1,0 +1,1 @@
+INSERT INTO Todo (id, description) VALUES (1, 'todo1-Just for testing'), (2, 'todo2'), (3, 'todo3');
